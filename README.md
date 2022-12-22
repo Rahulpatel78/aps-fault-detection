@@ -27,7 +27,6 @@ git init
 ```
 This is going to intialize git in your source code.
 
-
 OR
 
 You can clon exiting github repo
