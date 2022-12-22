@@ -27,7 +27,6 @@ git init
 ```
 This is going to intialize git in your source code.
 
-
 OR
 
 You can clon exiting github repo
@@ -66,3 +65,10 @@ git pull origin main
 ```
 Note: origin--> contains url to your github repo
 main--> is your branch name
+
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+sudo usermod -aG docker ubuntu
+newgrp docker
+```
