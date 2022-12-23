@@ -58,7 +58,6 @@ TO push your changes forcefully
 git push origin main -f
 ```
 
-
 TO pull changes from github repo
 ```
 git pull origin main
